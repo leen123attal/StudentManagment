@@ -1,0 +1,503 @@
+2023-10-15 23:53:08.1084 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-15 23:53:08.7825 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-15 23:53:09.0221 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-15 23:53:09.2113 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-15 23:53:09.3961 Info Configuration initialized.
+2023-10-15 23:53:11.5959 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:08:59.8161 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 00:08:59.8712 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 00:08:59.9473 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 00:09:00.7113 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:09:00.7389 Info Configuration initialized.
+2023-10-16 00:09:02.9317 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:12:03.5857 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 00:12:03.6670 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 00:12:03.7553 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 00:12:04.0127 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:12:04.0411 Info Configuration initialized.
+2023-10-16 00:12:06.1145 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:14:47.6985 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 00:14:47.8043 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 00:14:47.8723 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 00:14:48.0538 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:14:48.1470 Info Configuration initialized.
+2023-10-16 00:14:50.3093 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:20:52.5902 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 00:20:52.6464 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 00:20:52.7085 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 00:20:52.8154 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:20:52.8504 Info Configuration initialized.
+2023-10-16 00:20:55.3810 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:23:55.8656 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 00:23:56.0185 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 00:23:56.0805 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 00:23:56.1662 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:23:56.2037 Info Configuration initialized.
+2023-10-16 00:23:59.1325 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:35:36.3219 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 00:35:36.3766 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 00:35:36.4270 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 00:35:36.5024 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:35:36.5286 Info Configuration initialized.
+2023-10-16 00:35:38.6403 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:38:05.1789 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 00:38:05.2470 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 00:38:05.3053 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 00:38:05.3798 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:38:05.4113 Info Configuration initialized.
+2023-10-16 00:38:08.3201 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:40:29.3774 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 00:40:29.4570 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 00:40:29.5504 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 00:40:29.6247 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:40:29.6508 Info Configuration initialized.
+2023-10-16 00:40:31.3527 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:41:56.0904 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 00:41:56.1830 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 00:41:56.2673 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 00:41:56.3593 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 00:41:56.4093 Info Configuration initialized.
+2023-10-16 00:41:58.4565 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 14:39:16.9051 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 14:39:17.0089 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 14:39:17.1397 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 14:39:17.3743 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 14:39:17.4445 Info Configuration initialized.
+2023-10-16 14:39:19.7540 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 14:40:46.5287 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 14:40:46.6032 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 14:40:46.7071 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 14:40:46.7922 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 14:40:46.8304 Info Configuration initialized.
+2023-10-16 14:40:49.0742 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 14:42:17.5979 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 14:42:17.7308 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 14:42:17.9263 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 14:42:18.1032 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 14:42:18.1656 Info Configuration initialized.
+2023-10-16 14:42:21.7696 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 15:06:36.3166 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 15:06:36.3783 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 15:06:36.4630 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 15:06:36.5453 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 15:06:36.5947 Info Configuration initialized.
+2023-10-16 15:06:39.7101 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 15:11:07.9017 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 15:11:07.9772 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 15:11:08.0514 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 15:11:08.1895 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 15:11:08.2334 Info Configuration initialized.
+2023-10-16 15:11:11.1360 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 16:49:26.0769 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 16:49:26.1612 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 16:49:26.2137 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 16:49:26.2885 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 16:49:26.3368 Info Configuration initialized.
+2023-10-16 16:49:28.5413 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 17:02:39.2898 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 17:02:39.4055 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 17:02:39.4954 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 17:02:39.7688 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 17:02:39.8019 Info Configuration initialized.
+2023-10-16 17:02:42.3819 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 17:10:22.1587 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 17:10:22.2309 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 17:10:22.2913 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 17:10:22.3649 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 17:10:22.4015 Info Configuration initialized.
+2023-10-16 17:10:24.8526 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 17:29:44.9070 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 17:29:44.9958 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 17:29:45.1062 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 17:29:45.2563 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 17:29:45.3181 Info Configuration initialized.
+2023-10-16 17:29:47.9228 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:04:11.2135 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 18:04:11.2582 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 18:04:11.3046 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 18:04:11.3703 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:04:11.3916 Info Configuration initialized.
+2023-10-16 18:04:13.8876 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:08:41.4340 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 18:08:41.5524 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 18:08:41.7225 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 18:08:41.8244 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:08:41.8615 Info Configuration initialized.
+2023-10-16 18:08:44.7115 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:10:04.0429 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 18:10:04.1238 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 18:10:04.5592 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 18:10:04.7922 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:10:04.8384 Info Configuration initialized.
+2023-10-16 18:10:07.5066 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:12:54.8892 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 18:12:54.9611 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 18:12:55.0704 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 18:12:55.1802 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:12:55.2201 Info Configuration initialized.
+2023-10-16 18:12:57.5049 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:15:46.6546 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 18:15:46.7794 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 18:15:46.8554 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 18:15:47.0488 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:15:47.1010 Info Configuration initialized.
+2023-10-16 18:15:50.7890 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:19:18.3171 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 18:19:18.4533 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 18:19:18.5181 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 18:19:18.6603 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:19:18.7157 Info Configuration initialized.
+2023-10-16 18:19:22.5139 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:21:25.5037 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 18:21:25.6879 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 18:21:25.7853 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 18:21:26.0742 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:21:26.1202 Info Configuration initialized.
+2023-10-16 18:21:29.9133 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:26:10.9596 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 18:26:11.0425 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 18:26:11.1084 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 18:26:11.2263 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 18:26:11.2719 Info Configuration initialized.
+2023-10-16 18:26:14.8132 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 21:54:37.0068 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 21:54:37.0903 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 21:54:37.1577 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 21:54:37.2909 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 21:54:37.3294 Info Configuration initialized.
+2023-10-16 21:54:40.0581 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:05:44.1733 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:05:44.2147 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:05:44.2595 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:05:44.3260 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:05:44.3640 Info Configuration initialized.
+2023-10-16 22:05:46.6566 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:08:44.9060 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:08:44.9853 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:08:45.0507 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:08:45.1228 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:08:45.1639 Info Configuration initialized.
+2023-10-16 22:08:47.3132 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:19:32.7926 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:19:32.9936 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:19:33.0569 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:19:33.1734 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:19:33.2125 Info Configuration initialized.
+2023-10-16 22:19:35.1840 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:22:18.3121 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:22:18.5788 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:22:18.9174 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:22:19.0591 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:22:19.1268 Info Configuration initialized.
+2023-10-16 22:22:22.0158 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:23:54.0825 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:23:54.1369 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:23:54.1857 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:23:54.2507 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:23:54.2761 Info Configuration initialized.
+2023-10-16 22:23:56.3394 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:25:26.1060 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:25:26.3452 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:25:26.8846 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:25:27.4728 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:25:27.5813 Info Configuration initialized.
+2023-10-16 22:25:29.9113 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:29:49.4881 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:29:49.5773 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:29:49.6419 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:29:49.8278 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:29:49.8765 Info Configuration initialized.
+2023-10-16 22:29:52.7590 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:33:10.2722 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:33:10.4127 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:33:10.5221 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:33:11.0167 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:33:11.0721 Info Configuration initialized.
+2023-10-16 22:33:13.5952 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:34:53.8199 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:34:54.0102 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:34:54.2496 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:34:54.4162 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:34:54.4644 Info Configuration initialized.
+2023-10-16 22:34:57.0983 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:38:47.3810 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:38:47.4763 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:38:47.6713 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:38:47.8628 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:38:47.9406 Info Configuration initialized.
+2023-10-16 22:38:50.1044 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:44:49.1676 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:44:49.2460 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:44:49.3195 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:44:49.4241 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:44:49.4833 Info Configuration initialized.
+2023-10-16 22:44:51.9268 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:45:43.7397 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:45:43.9728 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:45:44.2033 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:45:44.3042 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:45:44.3455 Info Configuration initialized.
+2023-10-16 22:45:46.4450 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:48:24.8078 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:48:25.6032 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:48:25.6677 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:48:25.9356 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:48:25.9785 Info Configuration initialized.
+2023-10-16 22:48:29.2568 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:50:42.1034 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:50:42.2202 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:50:42.5684 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:50:42.7635 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:50:42.8317 Info Configuration initialized.
+2023-10-16 22:50:45.6033 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:51:40.3531 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:51:40.5231 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:51:40.6666 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:51:40.8560 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:51:40.9207 Info Configuration initialized.
+2023-10-16 22:51:43.6217 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:53:39.3377 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:53:39.7157 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:53:39.8008 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:53:40.0428 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:53:40.1140 Info Configuration initialized.
+2023-10-16 22:53:42.8807 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:56:53.0695 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:56:53.3911 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:56:53.5326 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:56:53.7800 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:56:53.8197 Info Configuration initialized.
+2023-10-16 22:56:57.6132 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:58:07.2393 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 22:58:07.2978 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 22:58:07.3492 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 22:58:07.4215 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 22:58:07.4553 Info Configuration initialized.
+2023-10-16 22:58:11.2024 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:03:08.1932 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:03:08.4110 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:03:08.5665 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:03:08.7664 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:03:08.8138 Info Configuration initialized.
+2023-10-16 23:03:13.1855 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:05:36.9524 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:05:37.0694 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:05:37.1819 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:05:37.3231 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:05:37.3660 Info Configuration initialized.
+2023-10-16 23:05:39.4550 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:06:41.3290 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:06:41.5474 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:06:41.7730 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:06:41.9205 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:06:41.9603 Info Configuration initialized.
+2023-10-16 23:06:44.4319 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:11:34.4877 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:11:34.5821 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:11:34.6819 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:11:34.7843 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:11:34.8231 Info Configuration initialized.
+2023-10-16 23:11:38.0862 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:13:50.8113 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:13:51.0517 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:13:51.1539 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:13:51.3978 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:13:51.4256 Info Configuration initialized.
+2023-10-16 23:13:53.1962 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:14:58.1307 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:14:58.2340 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:14:58.4035 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:14:58.6501 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:14:58.6919 Info Configuration initialized.
+2023-10-16 23:15:01.1999 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:17:15.0490 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:17:15.1887 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:17:15.2743 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:17:16.1839 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:17:16.2178 Info Configuration initialized.
+2023-10-16 23:17:19.9379 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:21:27.5516 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:21:27.6525 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:21:27.7562 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:21:27.8700 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:21:27.9201 Info Configuration initialized.
+2023-10-16 23:21:38.4974 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:21:38.6804 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:21:38.7713 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:21:39.0940 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:21:39.1293 Info Configuration initialized.
+2023-10-16 23:21:42.1397 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:24:11.4239 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:24:11.5590 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:24:11.6231 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:24:11.7235 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:24:11.7726 Info Configuration initialized.
+2023-10-16 23:24:15.0287 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:25:35.9539 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:25:36.3060 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:25:36.3836 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:25:36.4800 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:25:36.5224 Info Configuration initialized.
+2023-10-16 23:25:40.0338 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:27:49.9715 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:27:50.0811 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:27:50.3508 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:27:50.5920 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:27:50.6277 Info Configuration initialized.
+2023-10-16 23:27:52.2562 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:29:36.4952 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:29:37.0341 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:29:37.2457 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:29:37.5486 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:29:37.5926 Info Configuration initialized.
+2023-10-16 23:29:40.5597 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:31:58.2696 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:31:58.4416 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:31:58.5217 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:31:58.6087 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:31:58.6674 Info Configuration initialized.
+2023-10-16 23:32:01.8825 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:34:43.9772 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:34:44.2911 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:34:44.3804 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:34:44.4918 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:34:44.5377 Info Configuration initialized.
+2023-10-16 23:34:48.3956 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:35:49.7067 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:35:49.7817 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:35:49.8739 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:35:50.0439 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:35:50.0842 Info Configuration initialized.
+2023-10-16 23:35:52.7651 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:36:56.2818 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:36:56.3559 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:36:56.4102 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:36:56.7336 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:36:56.7792 Info Configuration initialized.
+2023-10-16 23:36:59.4458 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:49:54.2968 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:49:54.3657 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:49:54.4211 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:49:54.4944 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:49:54.5331 Info Configuration initialized.
+2023-10-16 23:49:57.8843 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:50:56.5060 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:50:56.7571 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:50:56.8634 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:50:56.9606 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:50:56.9918 Info Configuration initialized.
+2023-10-16 23:50:58.7736 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:51:53.5429 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:51:53.6175 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:51:53.6644 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:51:53.7422 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:51:53.7764 Info Configuration initialized.
+2023-10-16 23:51:55.7075 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:57:35.6114 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:57:35.7104 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:57:35.7758 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:57:35.8431 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:57:35.8808 Info Configuration initialized.
+2023-10-16 23:57:37.8282 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:59:00.5082 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:59:00.5634 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:59:00.6240 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:59:00.7352 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:59:00.7629 Info Configuration initialized.
+2023-10-16 23:59:02.7760 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:59:54.4237 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-16 23:59:54.4709 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-16 23:59:54.5169 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-16 23:59:54.6038 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-16 23:59:54.6361 Info Configuration initialized.
+2023-10-16 23:59:56.8633 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:01:47.9234 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:01:48.0476 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:01:48.1080 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:01:48.2043 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:01:48.2369 Info Configuration initialized.
+2023-10-17 00:01:50.1027 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:02:18.4847 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:02:18.5416 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:02:18.6221 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:02:18.7690 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:02:18.8118 Info Configuration initialized.
+2023-10-17 00:02:21.2989 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:06:14.8668 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:06:14.9442 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:06:15.0780 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:06:15.1909 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:06:15.2180 Info Configuration initialized.
+2023-10-17 00:06:18.4303 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:08:24.6871 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:08:24.8481 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:08:24.9142 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:08:25.1711 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:08:25.2128 Info Configuration initialized.
+2023-10-17 00:08:28.7505 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:11:36.3428 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:11:36.4263 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:11:36.5549 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:11:36.7746 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:11:36.8053 Info Configuration initialized.
+2023-10-17 00:11:39.0909 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:14:13.3896 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:14:13.4866 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:14:13.6033 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:14:13.7021 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:14:13.7468 Info Configuration initialized.
+2023-10-17 00:14:15.7634 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:16:04.6811 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:16:04.7531 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:16:04.8555 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:16:04.9454 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:16:04.9828 Info Configuration initialized.
+2023-10-17 00:16:07.0057 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:16:59.0947 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:16:59.2533 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:16:59.3418 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:16:59.5236 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:16:59.5708 Info Configuration initialized.
+2023-10-17 00:17:02.7051 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:17:35.7088 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:17:35.7764 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:17:35.8247 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:17:35.9000 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:17:35.9327 Info Configuration initialized.
+2023-10-17 00:17:38.5518 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:19:32.8496 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:19:32.9550 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:19:33.0252 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:19:33.1083 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:19:33.1447 Info Configuration initialized.
+2023-10-17 00:19:35.2671 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:21:31.2207 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:21:31.3287 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:21:31.4098 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:21:31.5145 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:21:31.5556 Info Configuration initialized.
+2023-10-17 00:21:33.5120 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:23:59.9429 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:24:00.2650 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:24:00.3441 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:24:00.4496 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:24:00.4766 Info Configuration initialized.
+2023-10-17 00:24:02.5679 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:26:47.5806 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:26:47.6443 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:26:47.7250 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:26:47.8524 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:26:47.8810 Info Configuration initialized.
+2023-10-17 00:26:49.9173 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:29:22.4005 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:29:22.4388 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:29:22.4866 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:29:22.5494 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:29:22.5752 Info Configuration initialized.
+2023-10-17 00:29:24.6813 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:35:51.7839 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-10-17 00:35:51.9173 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-10-17 00:35:52.0008 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-10-17 00:35:52.1042 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config
+2023-10-17 00:35:52.1403 Info Configuration initialized.
+2023-10-17 00:35:54.5864 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\User\source\repos\StudentManagment\StudentManagment\bin\Debug\net5.0\nlog.config

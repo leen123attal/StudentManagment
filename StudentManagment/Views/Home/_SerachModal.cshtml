@@ -1,0 +1,101 @@
+﻿ @model AllStudentModel
+
+
+@section Scripts
+{
+
+
+}
+
+
+
+@foreach (var item in Model.students)
+{
+<tr>
+
+    <td>@item.Name</td>
+    <td>@item.Number</td>
+    <td>@item.Grade</td>
+
+
+    <td>
+
+        <button type="button" style="width: 4px;" class="edit btn btn-default btn-sm" id="@item.Id" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Edit" style="color:#ffc419;">&#xE254;</i></button>
+
+        <button type="button" style="width: 4px;" class="delete btn btn-default btn-sm" id="@item.Id"><i class="material-icons" data-toggle="tooltip" title="Delete" style="color:red;">&#xE872;</i></button>
+
+
+    </td>
+</tr>
+}
+
+
+
+<script>
+
+    $(".edit").click(function () {
+        var StudentId = this.id;
+        $.ajax({
+            type: "POST",
+            url: "/Home/CreateOrEditModal",
+            data: { "id": StudentId },
+            success: function (response) {
+                $("#addEmployeeModal2").find('.modal-title').text('Edit Student');
+                $("#addEmployeeModal2").find('.modal-body').html(response);
+                $("#addEmployeeModal2").find('.modal-body').html(response);
+                $("#addEmployeeModal2").modal('show');
+
+
+
+            },
+            failure: function (response) {
+                alert(response.responseText);
+            },
+            error: function (response) {
+                alert(response.responseText);
+            }
+        });
+
+
+    });
+
+    $(".delete").on("click", function () {
+       
+        var Id = this.id;
+
+
+
+
+        $.ajax({
+            type: "GET",
+            url: "/Home/DeleteStudent", 
+            data: { id: Id },
+            success: function (data) {
+
+                console.log(data)
+                
+                $("#StudentTable tbody").html(data);
+            },
+
+            failure: function (response) {
+                alert(response.responseText);
+            },
+            error: function (response) {
+                alert(response.responseText);
+            }
+        });
+
+
+    });
+
+
+
+</script>
+
+
+
+
+
+
+
+
